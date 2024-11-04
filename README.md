@@ -1,4 +1,5 @@
 # Unidad-2
+Jennifer Ailin Medina Hernandez 
 
 ## Ejercicio Practico Integral
 Enlace drive
@@ -35,4 +36,4 @@ https://drive.google.com/drive/folders/1afAFurJAFaJ2gPwcIZAoClW5pZtrfOlg?usp=sha
 <img src="https://github.com/user-attachments/assets/81e4f8b0-2b3f-43e3-b377-227a2672b286" width="500"/>
 <br>
 ## Coevaluacion 
-
+Mi compañero era Gerardo Espindola Morales, ya no puedo decir mucho de el ya que se va o ya se dio de baja :/ .
