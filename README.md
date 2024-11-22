@@ -38,4 +38,4 @@ https://drive.google.com/drive/folders/1afAFurJAFaJ2gPwcIZAoClW5pZtrfOlg?usp=sha
 <img src="https://github.com/user-attachments/assets/ef9fa1ef-a0b4-48b9-a744-70cc83aa9582" width="500"/>
 <br>
 ## Coevaluacion 
-Mi compañero era Gerardo Espindola Morales, ya no puedo decir mucho de el ya que se va o ya se dio de baja :/ .
+Creo que hice un buen trabajo avanzando con mi proyecto, sobre todo porque lo hice sola, y eso no siempre es fácil. Pero también sé que me atrasé al comprar los componentes para el proyecto final y en las actividades de clase, y eso complicó las cosas. La verdad, creo que podría organizarme mejor para que eso no me pase de nuevo. También me doy cuenta de que trabajar en equipo es algo que debo mejorar, porque a veces intento hacerlo todo yo sola, y al final, trabajar con otros me podría ayudar mucho y hasta sería más llevadero
